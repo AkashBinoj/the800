@@ -4,5 +4,12 @@ html{
 
 h1{
     color:white;
+    font-size: 70px;
     text-decoration-color: red;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: auto;
 }
