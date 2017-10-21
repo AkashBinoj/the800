@@ -2,6 +2,12 @@ html{
     background-color: black;
 }
 
+div{
+    position: relative;
+    top: 40%;
+    bottom: auto;
+}
+
 h1{
     color:white;
     font-size: 70px;
@@ -9,7 +15,17 @@ h1{
     text-align: center;
     font-family: 'Courgette', cursive;
     text-align: center;
+}
+
+table{
+    width: 40%;
     position: relative;
-    top: 50%;
-    bottom: auto;
+    left: 30%;
+}
+
+td{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courgette', cursive;
 }
